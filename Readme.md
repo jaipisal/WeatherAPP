@@ -45,9 +45,9 @@ git clone https://github.com/your-username/weatherpro.git
 cd weatherpro
 
 
-
+```
 2. Install dependencies
-```bash   
+
 Run
 Copy code
 npm install
