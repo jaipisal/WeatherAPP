@@ -48,8 +48,6 @@ cd weatherpro
 ```
 2. Install dependencies
 ```bash
-Run
-Copy code
 npm install
 # or
 yarn install
@@ -86,7 +84,7 @@ npm run dev
 yarn dev
 ```
 This will start the development server, usually at http://localhost:5173.
-
+```
 5. Build for production
 bash
 ```
