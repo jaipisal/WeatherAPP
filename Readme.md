@@ -47,12 +47,14 @@ cd weatherpro
 
 ```
 2. Install dependencies
-
+```bash
 Run
 Copy code
 npm install
 # or
 yarn install
+```
+
 3. Configure API Key
 WeatherPro uses the OpenWeatherMap API. You'll need to obtain a free API key from their website.
 
@@ -70,29 +72,35 @@ VITE_OPENWEATHER_API_KEY=YOUR_OPENWEATHER_API_KEY
 VITE_OPENWEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 VITE_OPENWEATHER_GEO_URL=https://api.openweathermap.org/geo/1.0
 Replace YOUR_OPENWEATHER_API_KEY with the key you obtained.
+```
 
+```
 4. Run the development server
 bash
-
+```
 Run
 Copy code
-```bash
+```
 npm run dev
 # or
 yarn dev
+```
 This will start the development server, usually at http://localhost:5173.
 
 5. Build for production
 bash
+```
 
 Run
 Copy code
-```bash
+ ```bash
 npm run build
 # or
 
 yarn build
+```
 This will compile the application into the dist directory, ready for deployment.
+```
 ```
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
