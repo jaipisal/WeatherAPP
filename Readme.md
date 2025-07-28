@@ -40,14 +40,14 @@ To get a local copy up and running, follow these simple steps.
 *   npm or Yarn
 
 ### 1. Clone the repository
-
+```bash
 git clone https://github.com/your-username/weatherpro.git
 cd weatherpro
 
 
 
-2. Install dependencies 
-
+2. Install dependencies
+```bash   
 Run
 Copy code
 npm install
@@ -65,6 +65,7 @@ Create a .env file in the root of your project (/project/.env) and add your API 
 
 Run
 Copy code
+```bash
 VITE_OPENWEATHER_API_KEY=YOUR_OPENWEATHER_API_KEY
 VITE_OPENWEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 VITE_OPENWEATHER_GEO_URL=https://api.openweathermap.org/geo/1.0
@@ -75,6 +76,7 @@ bash
 
 Run
 Copy code
+```bash
 npm run dev
 # or
 yarn dev
@@ -85,11 +87,13 @@ bash
 
 Run
 Copy code
+```bash
 npm run build
 # or
+
 yarn build
 This will compile the application into the dist directory, ready for deployment.
-
+```
 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
