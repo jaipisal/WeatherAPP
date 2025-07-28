@@ -1,48 +1,50 @@
-🌟 WeatherPro: Your Personal Weather Companion 🌍
-WeatherPro is a modern, feature-rich weather application built with React, TypeScript, and Tailwind CSS. It provides real-time weather updates, detailed forecasts, air quality information, and interactive radar maps, all wrapped in a stunning, customizable user interface.
+# 🌟 WeatherPro: Your Personal Weather Companion 🌍
+
+**WeatherPro** is a modern, feature-rich weather application built with React, TypeScript, and Tailwind CSS. It provides real-time weather updates, detailed forecasts, air quality information, and interactive radar maps, all wrapped in a stunning, customizable user interface.
 
 Whether you're planning your day or your next adventure, WeatherPro keeps you informed with beautiful visuals and precise data.
 
-✨ Features
-Real-time Weather Updates: Get current temperature, conditions, humidity, wind speed, pressure, visibility, and sunrise/sunset times for any location worldwide.
-Comprehensive Forecasts:
-Hourly Forecast: See detailed weather predictions for the next 24 hours.
-7-Day Daily Forecast: Plan your week with high/low temperatures, conditions, and precipitation chances.
-Advanced Air Quality Monitoring: Stay healthy with real-time Air Quality Index (AQI) and detailed pollutant levels (PM2.5, PM10, O₃, NO₂, SO₂, CO), along with health recommendations.
-Dynamic Weather Alerts: Receive timely warnings for high winds, extreme temperatures, heavy rain, and more, with clear severity indicators.
-Interactive Weather Radar (Simulated): Visualize precipitation, cloud cover, and temperature distribution on a dynamic map with customizable layers.
-Intelligent Location Search: Easily find any city, district, or region worldwide with a smart autocomplete search, powered by OpenWeatherMap's geocoding API.
-Personalized Experience:
-Customizable Backgrounds: Choose from a selection of beautiful gradient backgrounds for both your login and dashboard screens.
-Theme Toggle: Switch between elegant light and dark modes.
-Temperature Unit: Seamlessly toggle between Celsius (°C) and Fahrenheit (°F).
-Stunning UI/UX: Enjoy a clean, intuitive, and visually captivating interface with smooth animations and a modern "glassmorphism" design.
-Robust & Scalable: Built with React, TypeScript, and Vite for a fast, type-safe, and maintainable codebase.
-🚀 Technologies Used
-React: A JavaScript library for building user interfaces.
-TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-Vite: A next-generation frontend tooling that provides an extremely fast development experience.
-Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
-Lucide React: A beautiful and consistent icon library for React.
-OpenWeatherMap API: For fetching real-time weather, forecast, and air quality data.
-React Context API & useReducer: For efficient and centralized state management.
-.
-📸 Screenshots <img width="1364" height="659" alt="3" src="https://github.com/user-attachments/assets/4ce80286-f439-42fa-85f3-2ea5f53ef792" />
-<img width="1361" height="661" alt="1" src="https://github.com/user-attachments/assets/b10a2619-9cd2-4f52-9527-b5f85c1b822c" />
-<img width="1362" height="659" alt="2" src="https://github.com/user-attachments/assets/408e814e-d7ce-45f7-94a2-c9e5ae99e90e" />
-⚙️ Installation & Setup
+## ✨ Features
+
+*   **Real-time Weather Updates**: Get current temperature, conditions, humidity, wind speed, pressure, visibility, and sunrise/sunset times for any location worldwide.
+*   **Comprehensive Forecasts**:
+    *   **Hourly Forecast**: See detailed weather predictions for the next 24 hours.
+    *   **7-Day Daily Forecast**: Plan your week with high/low temperatures, conditions, and precipitation chances.
+*   **Advanced Air Quality Monitoring**: Stay healthy with real-time Air Quality Index (AQI) and detailed pollutant levels (PM2.5, PM10, O₃, NO₂, SO₂, CO), along with health recommendations.
+*   **Dynamic Weather Alerts**: Receive timely warnings for high winds, extreme temperatures, heavy rain, and more, with clear severity indicators.
+*   **Interactive Weather Radar (Simulated)**: Visualize precipitation, cloud cover, and temperature distribution on a dynamic map with customizable layers.
+*   **Intelligent Location Search**: Easily find any city, district, or region worldwide with a smart autocomplete search, powered by OpenWeatherMap's geocoding API.
+*   **Personalized Experience**:
+    *   **Customizable Backgrounds**: Choose from a selection of beautiful gradient backgrounds for both your login and dashboard screens.
+    *   **Theme Toggle**: Switch between elegant light and dark modes.
+    *   **Temperature Unit**: Seamlessly toggle between Celsius (°C) and Fahrenheit (°F).
+*   **Stunning UI/UX**: Enjoy a clean, intuitive, and visually captivating interface with smooth animations and a modern "glassmorphism" design.
+*   **Robust & Scalable**: Built with React, TypeScript, and Vite for a fast, type-safe, and maintainable codebase.
+
+## 📸 Screenshots
+<img width="1362" height="659" alt="2" src="https://github.com/user-attachments/assets/5f52c55a-cdac-4d6d-a05a-ec32c783a1b0" />
+<img width="1361" height="661" alt="1" src="https://github.com/user-attachments/assets/c827ac90-05c5-4c55-8187-92bf59e3467c" />
+<img width="1364" height="659" alt="3" src="https://github.com/user-attachments/assets/ecd7f1ac-5a7a-4ce5-ac4d-f45885492cf9" />
+
+
+
+
+
+## ⚙️ Installation & Setup
+
 To get a local copy up and running, follow these simple steps.
 
-Prerequisites
-Node.js (v18 or higher recommended)
-npm or Yarn
-1. Clone the repository
-bash
+### Prerequisites
 
-Run
-Copy code
+*   Node.js (v18 or higher recommended)
+*   npm or Yarn
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/your-username/weatherpro.git
 cd weatherpro
+
 2. Install dependencies
 bash
 
@@ -102,6 +104,4 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 📞 Contact
-Your Name/Project Maintainer - instagram :- _jai_pisal_ Project Link: https://github.com/your-username/weatherpro
-
-
+Your Name/Project Maintainer - Instagram :- @_jai_pisal_ Project Link: https://github.com/your-username/weatherpro
