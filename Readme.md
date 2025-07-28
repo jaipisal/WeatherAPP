@@ -25,6 +25,11 @@ Whether you're planning your day or your next adventure, WeatherPro keeps you in
 <img width="1362" height="659" alt="2" src="https://github.com/user-attachments/assets/5f52c55a-cdac-4d6d-a05a-ec32c783a1b0" />
 <img width="1361" height="661" alt="1" src="https://github.com/user-attachments/assets/c827ac90-05c5-4c55-8187-92bf59e3467c" />
 <img width="1364" height="659" alt="3" src="https://github.com/user-attachments/assets/ecd7f1ac-5a7a-4ce5-ac4d-f45885492cf9" />
+<img width="885" height="545" alt="4" src="https://github.com/user-attachments/assets/571fb93e-e755-4686-9267-6782c20d2083" />
+<img width="446" height="589" alt="5" src="https://github.com/user-attachments/assets/e9c42e6d-5ddc-4529-b8cc-fc92d4636912" />
+
+
+
 
 
 
